@@ -1,0 +1,2 @@
+let remoteDB = 'http://localhost:5984/github-profiles'
+export default remoteDB
